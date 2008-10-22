@@ -13,6 +13,7 @@ $ svn checkout https://python-multiprocessing.googlecode.com/svn/trunk python-mu
 $ cd python-multiprocessing
 $ make
 $ make test
+$ make examples
 }}}
 
 == Compilation and testing with other versions of Python ==
